@@ -1,9 +1,9 @@
 ## VLSP-2020
 ## Thorlab-C
 Members:
-** Tuyen(L)
-** Tranh
-** Thanh
+** Tuyenvq(L)
+** Tranhdq
+** Thanhlv
 
 This to save my work at home about NPL
 Try to using VN in spacy lab
